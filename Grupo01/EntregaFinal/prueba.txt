@@ -1,0 +1,54 @@
+program
+beginp
+defvar
+float:a;f455;h7;f4;dos;tres;e;
+string:a3;f45;b;uno;
+int:j;k;
+enddef
+
+
+if (a==4 or a>5)
+then 
+a:=3
+endif
+
+***/IF ANIDADO/***
+if(a>f455 or a>f455 )
+then
+b:="z"
+b:="y"
+
+if(a>32 and a<7)
+then 
+
+if(h7>37 or a>9)
+then 
+h7:=44
+else
+b:="a"
+endif
+
+a:=65
+endif
+
+a:=85
+else
+b:="r"
+endif   
+
+***/WHILE ANIDADO/***
+while (a>21 and f4==36)
+a3 :="h" 
+while (h7>8 or h7==78)
+a3 :="c" 
+endw 
+endw 
+
+get a3
+display a
+
+e = if(a>a,a+67,a+89)
+
+let uno,dos,tres := ("34";45;a+75)
+
+endp

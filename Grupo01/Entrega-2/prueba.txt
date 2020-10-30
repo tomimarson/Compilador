@@ -1,0 +1,38 @@
+
+program
+beginp
+defvar
+float:a;f455;h7;f4;dos;tres;e;
+string:a3;f45;b;uno;
+float:e;f;
+int:j;k;
+enddef
+
+if (3.5==a)
+then 
+a:=3
+endif
+
+while (a>8 and f4==1)
+a3 :="hola" 
+endw
+***//***
+***/COMENTARIO/***
+
+if(13>32 or 332>2)
+then
+b:="aaa"
+b:="aaa"
+else
+b:="aaa"
+endif 
+
+get a3
+display "hola"
+display 1
+display a3
+e = if(a<4,a+5,5)
+e = if(a>3,a+6,a+8)
+
+let uno,dos,tres := ("3";4;a+5)
+endp
