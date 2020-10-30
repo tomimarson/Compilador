@@ -1,0 +1,89 @@
+program
+beginp
+defvar
+float:a;f455;h7;f4;dos;tres;e;
+string:a3;f45;b;uno;
+float:e;f;
+int:j;k;
+enddef
+
+
+***/IF ANIDADO/***
+if(3.5>33 or a>f455)
+then
+b:="aaa"
+b:="aaa"
+
+if(a>32 and a<7)
+then 
+
+if(h7>44 or a>9)
+then 
+h7:=44
+else
+b:="aaa"
+endif
+
+a:=32
+endif
+
+a:=9
+else
+b:="aaa"
+endif   
+
+***/IF/***
+if (a3=="rfrf")
+then 
+a:=3
+endif
+
+***/WHILE ANIDADO/***
+while (a>8 and f4==1)
+a3 :="hola" 
+while (h7>8 or h7==1)
+a3 :="chau" 
+endw 
+endw 
+
+***/WHILE/***
+while (a>8 and f4==1)
+a3 :="hola" 
+endw
+
+***/WHILE E IF ANIDADOS/***
+while (a>a and f4==a)
+a3 :="hola" 
+
+if (3.5==a)
+then 
+a:=3
+endif
+
+if (3.5==a or a>5)
+then 
+a:=3
+endif
+
+endw 
+
+***//***
+***/COMENTARIO/***
+
+if(13>32 or 332>2)
+then
+b:="aaa"
+b:="aaa"
+else
+b:="aaa"
+endif 
+
+get a3
+display "hola"
+display 1
+display a3
+e = if(a<4,a+5,5)
+e = if(a>3,a+6,a+8)
+
+let uno,dos,tres := ("3";4;a+5)
+endp
